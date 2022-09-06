@@ -1,15 +1,15 @@
 {
-    "baseUrl": "https://samuraibs-web-papito.herokuapp.com",
-    "apiServer": "https://samuraibs-api-papito.herokuapp.com",
+    "baseUrl": "https://samuraibs-web-mends.herokuapp.com",
+    "apiServer": "https://samuraibs-api-mends.herokuapp.com",
     "viewportWidth": 1440,
     "viewportHeight": 900,
     "defaultCommandTimeout": 30000,
     "dbConfig": {
         "host": "jelani.db.elephantsql.com",
-        "user": "qgbbfjna",
-        "password": "HylJM7Ei4Um3GKsAS3pP3v72otlG0I-C",
-        "database": "qgbbfjna",
+        "user": "ryovqwtv",
+        "password": "QsFyiJx4fwc1lt48ADfO1mrn2SXTyTFG",
+        "database": "ryovqwtv",
         "port": 5432
     },
-    "projectId": "tbhhim"
+    "projectId": "gsj6ru"
 }
